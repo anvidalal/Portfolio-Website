@@ -122,8 +122,7 @@ jQuery.ajaxPrefilter(function(options) {
 	}
 	
 	// read the JSON file
-	$.getJSON('./assets/json/projects.JSON', function(data) {
-		console.log(data);
+	$.getJSON('./assets/json/projects.json', function(data) {
 		// for each project
 		$.each(data.projects, function(i, proj) {
 			proj.id = "proj" + projNum;
