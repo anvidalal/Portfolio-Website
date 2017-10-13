@@ -47,6 +47,11 @@
 <!-- <script src="file:///Macintosh HD/Users/Anvi/Library/Application Support/Adobe/Dreamweaver CC 2017/en_US/Configuration/Temp/Assets/eam33dd279b.TMP/js/bootstrap.js"></script> -->
 <script src="js/bootstrap-3.3.7.js"></script>
 <script>
+jQuery.ajaxPrefilter(function(options) {
+    if (options.crossDomain && jQuery.support.cors) {
+        options.url = 'https://cors-anywhere.herokuapp.com/' + options.url;
+    }
+});
 	var projects = [];
 	var tags = [];
 	var tagNum = 0;
