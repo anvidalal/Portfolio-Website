@@ -67,13 +67,13 @@
 		"img": "P1717/cover.png",
 		"images": ["P1717/cover.png"],
 		"summary": "A research study to visualize Philadelphia in the early 18th century.",
-		"tags": ["research"],
+		"tags": ["computer graphics", "research"],
 		"description": "A research project I did over the summer of '17 with a team of 4 other people who worked under my supervision at the University of Pennsylvania, Philadelphia 1717 was in its early stages when I joined. I started by collecting resources that would help us start modeling the terrain, roads and buildings of Philadelphia in the early 18th century by contacting historians and reading relevant literature. Once we had enough to take off with the modeling, we taught ourselves the Unreal Engine to start modeling the terrain and buildings. </br>A long term research project, Philadelphia 1717's final goal is to create knowledge bases, terrain, and animated (simulated) human activities in the historical setting using directed simulation, interactive virtual reality and various types of person-to-person interaction, user presence as a participating agent, modeling appropriately attired and outfitted human models, human responses to environmental conditions, and agent behavior authoring (user interface) tools."
 	}, {
 		"name": "Dynamic Balance",
 		"img": "db/cover.png",
 		"images": ["db/1.png", "db/2.png", "db/3.gif", "db/4.gif"],
-		"summary": "An exploration of the future of urban housing in 2050 for a design competition, Well Building 2050.",
+		"summary": "An award-winning exploration of the future of urban housing in 2050 for a design competition, Well Building 2050.",
 		"tags": ["graphic design", "animation"],
 		"description": "A team effort to conceptualize the future of the city of Mumbai in 2050, Dynamic Balance was our submission to the international design competition, Well Building 2050, and secured us the second position. Working with a team of three architecture students and a neuroscience student, I took on the role of the graphic designer, animator and a content contributor during the ideation stage.</br>Competition result and detailed project report <a href=http://www.wellbuilding2050.com/contest.php#prize>here</a>.</br>Presentation video <a href=https://www.youtube.com/watch?v=VcJlR2j55s8>here</a>."
 	}, {
@@ -88,7 +88,7 @@
 		"img": "modeling/1.cover.png",
 		"images": ["modeling/1.png"],
 		"summary": "3D Model made in Maya.",
-		"tags": ["3d modeling"],
+		"tags": ["computer graphics","3d modeling"],
 		"description": "In the summer of '16 I learned how to use Maya and tried to model and texture a video gamer's favorite accessory. I plan to upload more models soon."
 	}, {
 		"name": "Monsoon",
