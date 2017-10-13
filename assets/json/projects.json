@@ -1,0 +1,143 @@
+{
+	"projects": [{
+		"name": "Music Visualizer",
+		"img": "music_visualizer/cover.png",
+		"images": ["music_visualizer/1.gif", "music_visualizer/2.gif", "music_visualizer/3.gif"],
+		"summary": "A procedurally generated speaker that shows interesting graphics tuned to a music track.",
+		"tags": ["computer graphics", "procedural graphics", "coding"],
+		"description": "Fascinated by L-Systems and Shape Grammar, I wanted to make a speaker that did more than what a regular capsule-shaped speaker could do. So I came up with the idea of adding visually pleasing procedurally generated shapes to the surface of the speaker that would morph based on music. </br> Along with iterating shape grammar, my visualizer also has a shader that changes the color of the cylinders laid out on the speaker based on perlin noise using a color palette, background that changes using a cosine based palette and a changing camera fov that gives a bulging effect. </br>Demo <a href=https://youtu.be/ePKxjf9t_z8>here</a>. </br>Source code <a href=https://github.com/anvidalal/Music-Visualizer>here</a>."
+	}, {
+		"name": "Dance Animation",
+		"img": "dance_collab/cover.png",
+		"images": ["dance_collab/1.gif", "dance_collab/2.gif", "dance_collab/3.gif", "dance_collab/4.gif", "dance_collab/5.gif"],
+		"summary": "A dance video with hand-drawn animations interacting with the dancer.",
+		"tags": ["video editing", "animation"],
+		"description": "This video is a collaboration with a friend of mine, Tanishq Joshi. When he showed me his most recent choreography, I told him I want to draw over it and he readily agreed and encouraged me. The result was a frame by frame animation done using a Wacom tablet on Adobe Animate, integrated into the original dance video with Adobe Premiere Pro.</br>Full video <a href=https://youtu.be/ZKv1-pgiICA>here</a>."
+	}, {
+		"name": "Unfair and Lovely",
+		"img": "gd/2.cover.png",
+		"images": ["gd/2.cover.png"],
+		"summary": "A satirical advertisement for a skin-whitening product.",
+		"tags": ["graphic design"],
+		"description": "Growing up an caramel-skinned girl in India, I was often shamed for my color and even more often reminded of how unfortunate I am to have that color by skin-whitening product advertisements. Soon enough, I realized how racist the beauty ideals thrust upon me by years of colonialization were, and chanelled my anger after this realization into a satirical advertisement for the product. The seemingly exaggerated dialogues that adorn the two faces are things I have heard in real life."
+	}, {
+		"name": "Diwali in Madhubani",
+		"img": "madhubani/cover.png",
+		"images": ["madhubani/1.png", "madhubani/2.png", "madhubani/3.png", "madhubani/4.png", "madhubani/5.png", "madhubani/6.png", "madhubani/7.png", "madhubani/8.png"],
+		"summary": "A Hindu mythological story told through a traditional Indian art form.",
+		"tags": ["drawing"],
+		"description": "When applying for Digital Media Design as my major at Penn, I was required to turn in an art portfolio. I realized that to make my application stand out, I will need to embrace my identity as an Indian and showcase it as something unique I can bring to the table. So, I learned Madhubani, an Indian folk painting form, to tell the most celebrated story of good versus evil in the Hindu community, the story of Ramayana.</br> Please use the online flipbook <a href='https://online.flowpaper.com/77d40731-trial/DiwaliinMadhubani/'>here</a> for a better reading experience."
+	}, {
+		"name": "Bio-Crowds",
+		"img": "biocrowds/cover.png",
+		"images": ["biocrowds/1.gif", "biocrowds/2.gif"],
+		"summary": "A crowd simulation algorithm based on the formation of veination patterns on leaves.",
+		"tags": ["computer graphics", "procedural graphics", "coding"],
+		"description": "After learning crowd simulation in my Procedural Graphics class at the University of Pennsylvania, I worked on a project to represent crowd movement based on a biocrowd algorithm, which accounts for personal space for each person or object in the crowd to prevent collision as the people/objects moved from an origin to a set destination.</br> Demo <a href='https://anvidalal.github.io/Biocrowds/'>here</a>.</br>Source code <a href=https://github.com/anvidalal/Project7-BioCrowds>here</a>."
+	}, {
+		"name": "Lea School",
+		"img": "teaching/2.png",
+		"images": ["teaching/2.png"],
+		"summary": "My one learning as a volunteer at the West Philadelphia K-8 school.",
+		"tags": ["teaching"],
+		"description": "My Tutoring: Theory and Practice class at the University of Pennsylvania was a community outreach effort that required each student to commit 4 hours every week to spending time with a particular student at the neighbouring school and build a strong mentor-mentee connection with them. While in class we explored the ideas of race and urban education, I got a first hand experience of what we learned at site. I learned what it meant to be a black student in West Philadelphia through my interactions with a curious 8-year old I am lucky to know. This experience was invaluable and opened my eyes to the need for reforms in the current system."
+	}, {
+		"name": "Theatre Assist Tool",
+		"img": "tat/cover.png",
+		"images": ["tat/1.gif", "tat/2.gif", "tat/3.gif"],
+		"summary": "A web tool to facilitate Theatre Arts students with the ability to prepare mock set designs.",
+		"tags": ["computer graphics", "procedural graphics", "coding", "research"],
+		"description": "Lighting sets an appropriate atmosphere and heightens an audience's understanding of a theatrical performance. However, rehearsing and experimenting with lighting is costly and time consuming. </br> Therefore, as a part of an independent research with Dr. Norman Badler at the University of Pennsylvania, my classmate, Nick Jang, my mentor, Sally Kong and I worked on a tool to facilitate the Theatre Arts students with a virtual lighting lab with features like different lighting, addition of multiple human models and different possible stage views. </br>Demo <a href='https://kongsally.github.io/LIT/'>here</a>.</br>Research summary video <a href=https://youtu.be/X0drjMUBeoM>here</a>."
+	}, {
+		"name": "Shaders",
+		"img": "shaders/cover.png",
+		"images": ["shaders/cover.png", "shaders/1.png", "shaders/2.png", "shaders/3.png"],
+		"summary": "A library of different Shaders and Post-Processing effects (Instagram-like filters) written in GLSL to render 3D scenes.",
+		"tags": ["computer graphics", "procedural graphics", "coding"],
+		"description": "I find writing shaders easily the most exciting part about learning computer graphics. They can make a regular looking 3D object transform into art. As a part of my procedural graphics class, I wrote a few shaders that are applied on a class-supplied 3D model of Mario. </br>Source code <a href=https://github.com/anvidalal/Shaders>here</a>."
+	}, {
+		"name": "Wearable Data",
+		"img": "gd/3.cover.png",
+		"images": ["gd/3.cover.png"],
+		"summary": "A paper skirt, also known as a lehenga, designed to represent specific data, then printed and stitched together.",
+		"tags": ["graphic design"],
+		"description": "This was created using Processing, Adobe Illustrator and Adobe Photoshop. Coming from such a culturally different background to America for college, I often find myself making reference to how things are 'back home' in my conversations with almost everybody. For that reason, I chose to collect data on how many times in a day I talk about India. I turned this data into a pattern using Processing. The pink flowers represent a positive reference and the golden ones, negative. On printing this pattern, I glued it into a skirt and decided to make a traditional Indian costume, a Lehenga, as my wearable design."
+	}, {
+		"name": "Philadelphia 1717",
+		"img": "p1717/cover.png",
+		"images": ["p1717/cover.png"],
+		"summary": "A research study to visualize Philadelphia in the early 18th century.",
+		"tags": ["research"],
+		"description": "A research project I did over the summer of '17 with a team of 4 other people who worked under my supervision at the University of Pennsylvania, Philadelphia 1717 was in its early stages when I joined. I started by collecting resources that would help us start modeling the terrain, roads and buildings of Philadelphia in the early 18th century by contacting historians and reading relevant literature. Once we had enough to take off with the modeling, we taught ourselves the Unreal Engine to start modeling the terrain and buildings. </br>A long term research project, Philadelphia 1717's final goal is to create knowledge bases, terrain, and animated (simulated) human activities in the historical setting using directed simulation, interactive virtual reality and various types of person-to-person interaction, user presence as a participating agent, modeling appropriately attired and outfitted human models, human responses to environmental conditions, and agent behavior authoring (user interface) tools."
+	}, {
+		"name": "Dynamic Balance",
+		"img": "db/cover.png",
+		"images": ["db/1.png", "db/2.png", "db/3.gif", "db/4.gif"],
+		"summary": "An exploration of the future of urban housing in 2050 for a design competition, Well Building 2050.",
+		"tags": ["graphic design", "animation"],
+		"description": "A team effort to conceptualize the future of the city of Mumbai in 2050, Dynamic Balance was our submission to the international design competition, Well Building 2050, and secured us the second position. Working with a team of three architecture students and a neuroscience student, I took on the role of the graphic designer, animator and a content contributor during the ideation stage.</br>Competition result and detailed project report <a href=http://www.wellbuilding2050.com/contest.php#prize>here</a>.</br>Presentation video <a href=https://www.youtube.com/watch?v=VcJlR2j55s8>here</a>."
+	}, {
+		"name": "Lonely Stoop Cigarette",
+		"img": "mv/cover.png",
+		"images": ["mv/1.gif", "mv/2.gif", "mv/3.gif"],
+		"summary": "Music video made using Adobe AfterEffects.",
+		"tags": ["video editing", "animation"],
+		"description": "For the final project of my Video I class at the University of Pennsylvania, my teammate, Mat Hause, and I decided to work a little harder outside the scope of the class and learn to use Adobe AfterEffects. The result was a music video for a song Mat wrote and recorded, Lonely Stoop Cigarette.</br>Full video <a href=https://youtu.be/shhD8jiYSjs>here</a>."
+	}, {
+		"name": "Gun Model",
+		"img": "modeling/1.cover.png",
+		"images": ["modeling/1.png"],
+		"summary": "3D Model made in Maya.",
+		"tags": ["3d modeling"],
+		"description": "In the summer of '16 I learned how to use Maya and tried to model and texture a video gamer's favorite accessory. I plan to upload more models soon."
+	}, {
+		"name": "Monsoon",
+		"img": "gd/1.cover.png",
+		"images": ["gd/1.png"],
+		"summary": "A top-view of umbrellas left to dry.",
+		"tags": ["graphic design"],
+		"description": "This top-view of umbrellas left to dry was made in Illustrator."
+	}, {
+		"name": "Mysore Palace",
+		"img": "drawing/1.cover.png",
+		"images": ["drawing/1.png"],
+		"summary": "A perspective drawing of the historical palace in the city if Mysore.",
+		"tags": ["drawing"],
+		"description": "Inspired by the beauty of this majestic palace, I made a perspective drawing of the architecture and painted in using ink colors."
+	}, {
+		"name": "Diptych",
+		"img": "drawing/2.cover.png",
+		"images": ["drawing/2.png"],
+		"summary": "A dual-view (top and bottom) sketch of some ropes in a strainer.",
+		"tags": ["drawing"],
+		"description": "Drawn as a final project from my Drawing I class at the University of Pennsylvania, this diptych of a randomly arranged still life represents chaos and structure. I made it using characoal and pastels."
+	}, {
+		"name": "CIS110",
+		"img": "teaching/4.png",
+		"images": ["teaching/4.png"],
+		"summary": "My one learning as a Computer Science TA at the University of Pennsylvania.",
+		"tags": ["teaching", "coding"],
+		"description": "The job of a Computer Science TA at the University of Pennsylvania comes with many responsibilities. One that required the most effort on my part was helping students on their homeworks without giving away any answers. It is often so easy to lose patience and give away the answer to avoid repeating the same thing over and over again in different ways hoping the student would understand. However, as I got through the semester, I started getting better at it. By the time final projects were due, I was able to talk a student through all of the Introductory Computer Science course without giving away any answers. It's a skill I am very proud of developing."
+	}, {
+		"name": "Indoor Fort",
+		"img": "drawing/3.cover.png",
+		"images": ["drawing/3.png"],
+		"summary": "A charcoal sketch of a home-made fort.",
+		"tags": ["drawing"],
+		"description": "Don't you wonder what's inside? </br>Made in charcoal."
+	}, {
+		"name": "Crimson Education",
+		"img": "teaching/1.png",
+		"images": ["teaching/1.png"],
+		"summary": "My learnings as an online SAT Tutor.",
+		"tags": ["teaching"],
+		"description": "As an SAT Tutor for Crimson Education, I tutor about 8 students from all around the world individually. This tutoring job has been a great learning experience for me. I have not only been able to learn how to teach, as I try to get better each session, but also how to learn, as I look for the best possible explanations for my students. Going over the same practice exams over and over again with different students allowed me to study different learning styles. Working with students from different parts of the world exposed me to their culture and broadened my world view."
+	}, {
+		"name": "New Model School",
+		"img": "teaching/3.png",
+		"images": ["teaching/3.png"],
+		"summary": "My one learning as a volunteer at a K-8 school in a small town in central India.",
+		"tags": ["teaching"],
+		"description": "After my research had ended and school was still a few weeks away, I spent my time at home, visiting the New Model School every morning to teach English to the students. Having grown up and gone to school in the same city, I couldn't help but compare these students to how I used to be as a student. My privilege had blinded me from appreciating what I had. So, when I walked into New Model School for the first time, I expected eighth-graders to be rude and disrespectful as me and my classmates were. To my surprise, I never felt more valued as a person than I did with these kids. I cannot count the number of times I held back tears in my eyes after their displays of love and respect for me. My experience here strengthened my stance to work towards education reform and accessibility."
+	}]
+}
