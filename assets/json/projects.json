@@ -38,9 +38,9 @@
 		"name": "Lea School",
 		"img": "teaching/2.png",
 		"images": ["teaching/2.png"],
-		"summary": "My one learning as a volunteer at the West Philadelphia K-8 school.",
+		"summary": "",
 		"tags": ["teaching"],
-		"description": "My Tutoring: Theory and Practice class at the University of Pennsylvania was a community outreach effort that required each student to commit 4 hours every week to spending time with a particular student at the neighbouring school and build a strong mentor-mentee connection with them. While in class we explored the ideas of race and urban education, I got a first hand experience of what we learned at site. I learned what it meant to be a black student in West Philadelphia through my interactions with a curious 8-year old I am lucky to know. This experience was invaluable and opened my eyes to the need for reforms in the current system."
+		"description": ""
 	}, {
 		"name": "Theatre Assist Tool",
 		"img": "tat/cover.png",
@@ -115,9 +115,9 @@
 		"name": "CIS110",
 		"img": "teaching/4.png",
 		"images": ["teaching/4.png"],
-		"summary": "My one learning as a Computer Science TA at the University of Pennsylvania.",
+		"summary": "",
 		"tags": ["teaching", "coding"],
-		"description": "The job of a Computer Science TA at the University of Pennsylvania comes with many responsibilities. One that required the most effort on my part was helping students on their homeworks without giving away any answers. It is often so easy to lose patience and give away the answer to avoid repeating the same thing over and over again in different ways hoping the student would understand. However, as I got through the semester, I started getting better at it. By the time final projects were due, I was able to talk a student through all of the Introductory Computer Science course without giving away any answers. It's a skill I am very proud of developing."
+		"description": ""
 	}, {
 		"name": "Indoor Fort",
 		"img": "drawing/3.cover.png",
@@ -129,15 +129,15 @@
 		"name": "Crimson Education",
 		"img": "teaching/1.png",
 		"images": ["teaching/1.png"],
-		"summary": "My learnings as an online SAT Tutor.",
+		"summary": "",
 		"tags": ["teaching"],
-		"description": "As an SAT Tutor for Crimson Education, I tutor about 8 students from all around the world individually. This tutoring job has been a great learning experience for me. I have not only been able to learn how to teach, as I try to get better each session, but also how to learn, as I look for the best possible explanations for my students. Going over the same practice exams over and over again with different students allowed me to study different learning styles. Working with students from different parts of the world exposed me to their culture and broadened my world view."
-	}, {
+		"description": ""
+		}, {
 		"name": "New Model School",
 		"img": "teaching/3.png",
 		"images": ["teaching/3.png"],
-		"summary": "My one learning as a volunteer at a K-8 school in a small town in central India.",
+		"summary": "",
 		"tags": ["teaching"],
-		"description": "After my research had ended and school was still a few weeks away, I spent my time at home, visiting the New Model School every morning to teach English to the students. Having grown up and gone to school in the same city, I couldn't help but compare these students to how I used to be as a student. My privilege had blinded me from appreciating what I had. So, when I walked into New Model School for the first time, I expected eighth-graders to be rude and disrespectful as me and my classmates were. To my surprise, I never felt more valued as a person than I did with these kids. I cannot count the number of times I held back tears in my eyes after their displays of love and respect for me. My experience here strengthened my stance to work towards education reform and accessibility."
-	}]
+		"description": ""
+		}]
 }
