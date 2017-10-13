@@ -64,8 +64,8 @@
 		"description": "This was created using Processing, Adobe Illustrator and Adobe Photoshop. Coming from such a culturally different background to America for college, I often find myself making reference to how things are 'back home' in my conversations with almost everybody. For that reason, I chose to collect data on how many times in a day I talk about India. I turned this data into a pattern using Processing. The pink flowers represent a positive reference and the golden ones, negative. On printing this pattern, I glued it into a skirt and decided to make a traditional Indian costume, a Lehenga, as my wearable design."
 	}, {
 		"name": "Philadelphia 1717",
-		"img": "p1717/cover.png",
-		"images": ["p1717/cover.png"],
+		"img": "P1717/cover.png",
+		"images": ["P1717/cover.png"],
 		"summary": "A research study to visualize Philadelphia in the early 18th century.",
 		"tags": ["research"],
 		"description": "A research project I did over the summer of '17 with a team of 4 other people who worked under my supervision at the University of Pennsylvania, Philadelphia 1717 was in its early stages when I joined. I started by collecting resources that would help us start modeling the terrain, roads and buildings of Philadelphia in the early 18th century by contacting historians and reading relevant literature. Once we had enough to take off with the modeling, we taught ourselves the Unreal Engine to start modeling the terrain and buildings. </br>A long term research project, Philadelphia 1717's final goal is to create knowledge bases, terrain, and animated (simulated) human activities in the historical setting using directed simulation, interactive virtual reality and various types of person-to-person interaction, user presence as a participating agent, modeling appropriately attired and outfitted human models, human responses to environmental conditions, and agent behavior authoring (user interface) tools."
