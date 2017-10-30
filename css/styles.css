@@ -462,7 +462,7 @@ h2 {
 	font-size: 1em;
 }
 .tags {
-	font-size: 0.7em;
+	font-size: 0.8em;
 }
 #proj {
 	margin-top: 12em;
@@ -474,6 +474,6 @@ h2 {
 .popup-window {
 	margin-top: 2em;
 	margin-left: 2vw;
-	font-size: 0.7em;
+	font-size: small;
 }
 }
