@@ -72,6 +72,7 @@ body header {
 	display: table;
 	z-index: 3;
 	text-align: center;
+	margin-left: -1em;
 }
 body section {
 	z-index: 2;
@@ -315,7 +316,9 @@ footer .social {
 		margin-top: -2.75em;
 	}
 	.social a img {
-		width: 1em;
+	width: 1.5em;
+	margin-right: 1em;
+	margin-left: 1em;
 	}
 	#proj {
 		display: block;
