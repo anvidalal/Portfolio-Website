@@ -214,7 +214,7 @@ h3 {
 	border-width: thick;
 	display: table;
 	width: 20vw;
-	margin-left: 1vw;
+	margin-left: 2vw;
 	float: left;
 }
 .whitespace {
@@ -298,6 +298,10 @@ footer .social {
 .carousel-control {
 	margin-right: -15px;
 	margin-left: -15px;
+}
+.carousel-indicators {
+	position: absolute;
+	bottom: 6%;
 }
 
 @media (max-width: 750px) {
