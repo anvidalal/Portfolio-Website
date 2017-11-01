@@ -5,7 +5,7 @@
 		"images": ["music_visualizer/1.gif", "music_visualizer/2.gif", "music_visualizer/3.gif"],
 		"summary": "A procedurally generated speaker that shows interesting graphics tuned to a music track.",
 		"tags": ["computer graphics", "procedural graphics", "coding"],
-		"description": "Fascinated by L-Systems and Shape Grammar, I wanted to make a speaker that did more than what a regular capsule-shaped speaker could do. So I came up with the idea of adding visually pleasing procedurally generated shapes to the surface of the speaker that would morph based on music. </br> Along with iterating shape grammar, my visualizer also has a shader that changes the color of the cylinders laid out on the speaker based on perlin noise using a color palette, background that changes using a cosine based palette and a changing camera fov that gives a bulging effect. </br><h2>Demo <a href=https://youtu.be/ePKxjf9t_z8>here</a>. </br>Source code <a href=https://github.com/anvidalal/Music-Visualizer>here</a>.</h2>"
+		"description": "Fascinated by L-Systems and Shape Grammar, I wanted to make a speaker that did more than what a regular capsule-shaped speaker could do. So I came up with the idea of adding visually pleasing procedurally generated shapes to the surface of the speaker that would morph based on music. </br> Along with iterating shape grammar, my visualizer has a shader that changes the color of the cylinders laid out on the speaker based on perlin noise using a color palette, background that changes using a cosine based palette and a changing camera fov that gives a bulging effect. </br><h2>Demo <b><a href=https://youtu.be/ePKxjf9t_z8>here</a></b>. </br>Source code <b><a href=https://github.com/anvidalal/Music-Visualizer>here</a></b>.</h2>"
 	}, {
 		"name": "Dance Animation",
 		"img": "dance_collab/cover.png",
@@ -26,35 +26,35 @@
 		"images": ["madhubani/1.png", "madhubani/2.png", "madhubani/3.png", "madhubani/4.png", "madhubani/5.png", "madhubani/6.png", "madhubani/7.png", "madhubani/8.png"],
 		"summary": "A Hindu mythological story told through a traditional Indian art form.",
 		"tags": ["drawing"],
-		"description": "When applying for Digital Media Design as my major at Penn, I was required to turn in an art portfolio. I realized that to make my application stand out, I will need to embrace my identity as an Indian and showcase it as something unique I can bring to the table. So, I learned Madhubani, an Indian folk painting form, to tell the most celebrated story of good versus evil in the Hindu community, the story of Ramayana.</br><h2>Please use the online flipbook <a href='https://online.flowpaper.com/77d40731-trial/DiwaliinMadhubani/'>here</a> for a better reading experience.</h2>"
+		"description": "When applying for Digital Media Design as my major at Penn, I was required to turn in an art portfolio. I realized that to make my application stand out, I will need to embrace my identity as an Indian and showcase it as something unique I can bring to the table. So, I learned Madhubani, an Indian folk painting form, to tell the most celebrated story of good versus evil in the Hindu community, the story of Ramayana.</br><h2>Please use the online flipbook <b><a href='https://online.flowpaper.com/77d40731-trial/DiwaliinMadhubani/'>here</a></b> for a better reading experience.</h2>"
 	}, {
 		"name": "Bio-Crowds",
 		"img": "biocrowds/cover.png",
 		"images": ["biocrowds/1.gif", "biocrowds/2.gif"],
 		"summary": "A crowd simulation algorithm based on the formation of veination patterns on leaves.",
 		"tags": ["computer graphics", "procedural graphics", "coding"],
-		"description": "After learning crowd simulation in my Procedural Graphics class at the University of Pennsylvania, I worked on a project to represent crowd movement based on a biocrowd algorithm, which accounts for personal space for each person or object in the crowd to prevent collision as the people/objects moved from an origin to a set destination.</br><h2>Demo <a href='https://anvidalal.github.io/Biocrowds/'>here</a>.</br>Source code <a href=https://github.com/anvidalal/Project7-BioCrowds>here</a>.</h2>"
+		"description": "After learning crowd simulation in my Procedural Graphics class at the University of Pennsylvania, I worked on a project to represent crowd movement based on a biocrowd algorithm, which accounts for personal space for each person or object in the crowd to prevent collision as the people/objects moved from an origin to a set destination.</br><h2>Demo <b><a href='https://anvidalal.github.io/Biocrowds/'>here</a></b>.</br>Source code <b><a href=https://github.com/anvidalal/Project7-BioCrowds>here</a></b>.</h2>"
 	}, {
 		"name": "Lea School",
 		"img": "teaching/2.png",
 		"images": ["teaching/2.png"],
 		"summary": "Volunteering experience at West Philadelphia's Henry C. Lea School.",
 		"tags": ["teaching"],
-		"description": "In the Spring 2017, I took a Tutoring: Theory and Practice class at the University of Pennsylvania to improve both as a tutor in my current position as an SAT Tutor at Crimson Education and to explore the field of education. As a part of this community service-based class, I went to Henry C. Lea School once a week for two hours to put into practice my learnings from the class. My role in the school was to assist my assigned tutee with schoolwork and inspire him to continue education."
+		"description": "In the Spring of 2017, I took a Tutoring: Theory and Practice class at the University of Pennsylvania both, to improve in my current position as an SAT Tutor at Crimson Education and to explore the field of education. As a part of this community service-based class, I went to Henry C. Lea School once a week for two hours to put into practice my learnings from the class. My role in the school, as a volunteering tutor, was to assist my assigned tutee with schoolwork and as a college-going student, was to inspire him to continue education and break the cycle of poverty that is prevalent in the West Philadelphia community. </br> In retrospect, my interactions with my tutee helped me understand what it means to be a black youth in an urban setting. In addition to learning how to develop and maintain a healthy and rewarding tutor-tutee relationship, I gained insights into race, poverty and urban education in the US through this opportunity and was able to translate them into my experiences with caste/religion, poverty and public education in India. </br>This course served as a turning point in my life because it made me realize how much I enjoy tutoring and the field of education in its entirety. While trying to help my tutee learn math and science through technology, I started to appreciate the power technology has in making education accessible and personalized. After taking a couple of other courses in education since, my goals have become quite clear: helping make education in India and around the world more innovative, accessible and inclusive.</br><h2>My final paper for EDUC 323, an account of my learnings in the class and on-site, <b><a href='anvidalal.com/assets/PDFs/EDUC323.pdf'>here</a></b>.</h2>"
 	}, {
 		"name": "Theatre Assist Tool",
 		"img": "tat/cover.png",
 		"images": ["tat/1.gif", "tat/2.gif", "tat/3.gif"],
 		"summary": "A web tool to facilitate Theatre Arts students with the ability to prepare mock set designs.",
 		"tags": ["computer graphics", "procedural graphics", "coding", "research"],
-		"description": "Lighting sets an appropriate atmosphere and heightens an audience's understanding of a theatrical performance. However, rehearsing and experimenting with lighting is costly and time consuming. </br> Therefore, as a part of an independent research with Dr. Norman Badler at the University of Pennsylvania, my classmate, Nick Jang, my mentor, Sally Kong and I worked on a tool to facilitate the Theatre Arts students with a virtual lighting lab with features like different lighting, addition of multiple human models and different possible stage views. <h2></br>Demo <a href='https://kongsally.github.io/LIT/'>here</a>.</br>Research summary video <a href=https://youtu.be/X0drjMUBeoM>here</a>.</h2>"
+		"description": "Lighting sets an appropriate atmosphere and heightens an audience's understanding of a theatrical performance. However, rehearsing and experimenting with lighting is costly and time consuming. </br> Therefore, as a part of an independent research with Dr. Norman Badler at the University of Pennsylvania, my classmate, Nick Jang, my mentor, Sally Kong and I worked on a tool to facilitate the Theatre Arts students with a virtual lighting lab with features like different lighting, addition of multiple human models and different possible stage views. <h2></br>Demo <b><a href='https://kongsally.github.io/LIT/'>here</a></b>.</br>Research summary video <b><a href=https://youtu.be/X0drjMUBeoM>here</a></b>.</h2>"
 	}, {
 		"name": "Shaders",
 		"img": "shaders/cover.png",
 		"images": ["shaders/cover.png", "shaders/1.png", "shaders/2.png", "shaders/3.png"],
 		"summary": "A library of different Shaders and Post-Processing effects (Instagram-like filters) written in GLSL to render 3D scenes.",
 		"tags": ["computer graphics", "procedural graphics", "coding"],
-		"description": "I find writing shaders easily the most exciting part about learning computer graphics. They can make a regular looking 3D object transform into art. As a part of my procedural graphics class, I wrote a few shaders that are applied on a class-supplied 3D model of Mario. </br><h2>Source code <a href=https://github.com/anvidalal/Shaders>here</a>.</h2>"
+		"description": "I find writing shaders easily the most exciting part about learning computer graphics. They can make a regular looking 3D object transform into art. As a part of my procedural graphics class, I wrote a few shaders that are applied on a class-supplied 3D model of Mario. </br><h2>Source code <b><a href=https://github.com/anvidalal/Shaders>here</a></b>.</h2>"
 	}, {
 		"name": "Wearable Data",
 		"img": "gd/3.cover.png",
@@ -75,14 +75,14 @@
 		"images": ["db/1.png", "db/2.png", "db/3.gif", "db/4.gif"],
 		"summary": "An award-winning exploration of the future of urban housing in 2050 for a design competition, Well Building 2050.",
 		"tags": ["graphic design", "animation"],
-		"description": "A team effort to conceptualize the future of the city of Mumbai in 2050, Dynamic Balance was our submission to the international design competition, Well Building 2050, and secured us the second position. Working with a team of three architecture students and a neuroscience student, I took on the role of the graphic designer, animator and a content contributor during the ideation stage.</br><h2>Competition result and detailed project report <a href=http://www.wellbuilding2050.com/contest.php#prize>here</a>.</br>Presentation video <a href=https://www.youtube.com/watch?v=VcJlR2j55s8>here</a>.</h2>"
+		"description": "A team effort to conceptualize the future of the city of Mumbai in 2050, Dynamic Balance was our submission to the international design competition, Well Building 2050, and secured us the second position. Working with a team of three architecture students and a neuroscience student, I took on the role of the graphic designer, animator and a content contributor during the ideation stage.</br><h2>Competition result and detailed project report <b><a href=http://www.wellbuilding2050.com/contest.php#prize>here</a></b>.</br>Presentation video <b><a href=https://www.youtube.com/watch?v=VcJlR2j55s8>here</a></b>.</h2>"
 	}, {
 		"name": "Lonely Stoop Cigarette",
 		"img": "mv/cover.png",
 		"images": ["mv/1.gif", "mv/2.gif", "mv/3.gif"],
 		"summary": "Music video made using Adobe AfterEffects.",
 		"tags": ["video editing", "animation"],
-		"description": "For the final project of my Video I class at the University of Pennsylvania, my teammate, Mat Hause, and I decided to work a little harder outside the scope of the class and learn to use Adobe AfterEffects. The result was a music video for a song Mat wrote and recorded, Lonely Stoop Cigarette.</br><h2>Full video <a href=https://youtu.be/shhD8jiYSjs>here</a>.</h2>"
+		"description": "For the final project of my Video I class at the University of Pennsylvania, my teammate, Mat Hause, and I decided to work a little harder outside the scope of the class and learn to use Adobe AfterEffects. The result was a music video for a song Mat wrote and recorded, Lonely Stoop Cigarette.</br><h2>Full video <b><a href=https://youtu.be/shhD8jiYSjs>here</a></b>.</h2>"
 	}, {
 		"name": "Gun Model",
 		"img": "modeling/1.cover.png",
@@ -115,9 +115,9 @@
 		"name": "CIS110",
 		"img": "teaching/4.png",
 		"images": ["teaching/4.png"],
-		"summary": "",
+		"summary": "Teaching experience as a CIS110 - Introduction to Computer Programming staff member.",
 		"tags": ["teaching", "coding"],
-		"description": ""
+		"description": "In the Spring of 2017, I worked as a mentor for the introductory computer science class at the University of Pennsylvania. My responsibilities included holding weekly office hours to assist students in coursework and homework, grading homework and exams, helping in content development for the class, making exams, and helping with course specific demands like answering questions on Piazza. Because this course is an introductory course, many students from different background who are interested in exploring Computer Science as a minor or second major take it, especially in the Spring. This means that I needed to learn how to explain complex computer science concepts like object oriented programming and abstract types to students with minimal to no background. </br> Through this opportunity, I was not only able to connect with and help out students from different majors and years at Penn, I was also able to strengthen my own understanding of computer science. In a highly competitive environment that is Penn, I learned how to patiently help students under immense stress. I also learned about the issues educators face in the field of computer science and how to improve on them. Overall, my experience as CIS 110 staff member was just as much about my own learning as that of my students’."
 	}, {
 		"name": "Indoor Fort",
 		"img": "drawing/3.cover.png",
@@ -129,15 +129,8 @@
 		"name": "Crimson Education",
 		"img": "teaching/1.png",
 		"images": ["teaching/1.png"],
-		"summary": "",
+		"summary": "Tutoring experience at Crimson Education, an education consultancy helping high school students reach their dream colleges.",
 		"tags": ["teaching"],
-		"description": ""
-		}, {
-		"name": "New Model School",
-		"img": "teaching/3.png",
-		"images": ["teaching/3.png"],
-		"summary": "",
-		"tags": ["teaching"],
-		"description": ""
+		"description": "I started working at Crimson Education as an SAT tutor in my freshman year and have still been working there. My role as a tutor is to make lesson plans for my students and conduct one-on-one tutoring sessions over video calls to prepare them for the SAT. In the past two years, I have had a chance to tutor about 15 students from at least 5 different countries around the world. This has provided me with the opportunity to learn about different cultures and different education systems in the world. I have also been able to build valuable connections with my students while helping them prepare for the standardized test, an otherwise tedious ordeal. While I started working as a tutor to cover my daily expenses at university, over the past two years, I have slowly developed an understanding and appreciation for personalized tutoring and lesson planning. After working with a diverse group of students, I have been able to study different learning styles and come up with lesson plans that foster learning best suited to each student’s learning style. I have received positive feedback from several of my students after their exams and feel proud of their achievements. Overall, working at Crimson has been a continuous learning experience for me."
 		}]
 }
