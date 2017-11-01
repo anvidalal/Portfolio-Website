@@ -5,14 +5,14 @@
 		"images": ["music_visualizer/1.gif", "music_visualizer/2.gif", "music_visualizer/3.gif"],
 		"summary": "A procedurally generated speaker that shows interesting graphics tuned to a music track.",
 		"tags": ["computer graphics", "procedural graphics", "coding"],
-		"description": "Fascinated by L-Systems and Shape Grammar, I wanted to make a speaker that did more than what a regular capsule-shaped speaker could do. So I came up with the idea of adding visually pleasing procedurally generated shapes to the surface of the speaker that would morph based on music. </br> Along with iterating shape grammar, my visualizer also has a shader that changes the color of the cylinders laid out on the speaker based on perlin noise using a color palette, background that changes using a cosine based palette and a changing camera fov that gives a bulging effect. </br>Demo <a href=https://youtu.be/ePKxjf9t_z8>here</a>. </br>Source code <a href=https://github.com/anvidalal/Music-Visualizer>here</a>."
+		"description": "Fascinated by L-Systems and Shape Grammar, I wanted to make a speaker that did more than what a regular capsule-shaped speaker could do. So I came up with the idea of adding visually pleasing procedurally generated shapes to the surface of the speaker that would morph based on music. </br> Along with iterating shape grammar, my visualizer also has a shader that changes the color of the cylinders laid out on the speaker based on perlin noise using a color palette, background that changes using a cosine based palette and a changing camera fov that gives a bulging effect. </br><h2>Demo <a href=https://youtu.be/ePKxjf9t_z8>here</a>. </br>Source code <a href=https://github.com/anvidalal/Music-Visualizer>here</a>.</h2>"
 	}, {
 		"name": "Dance Animation",
 		"img": "dance_collab/cover.png",
 		"images": ["dance_collab/1.gif", "dance_collab/2.gif", "dance_collab/3.gif", "dance_collab/4.gif", "dance_collab/5.gif"],
 		"summary": "A dance video with hand-drawn animations interacting with the dancer.",
 		"tags": ["video editing", "animation"],
-		"description": "This video is a collaboration with a friend of mine, Tanishq Joshi. When he showed me his most recent choreography, I told him I want to draw over it and he readily agreed and encouraged me. The result was a frame by frame animation done using a Wacom tablet on Adobe Animate, integrated into the original dance video with Adobe Premiere Pro.</br>Full video <a href=https://youtu.be/ZKv1-pgiICA>here</a>."
+		"description": "This video is a collaboration with a friend of mine, Tanishq Joshi. When he showed me his most recent choreography, I told him I want to draw over it and he readily agreed and encouraged me. The result was a frame by frame animation done using a Wacom tablet on Adobe Animate, integrated into the original dance video with Adobe Premiere Pro.</br><h2>Full video <b><a href=https://youtu.be/ZKv1-pgiICA>here</a></b>.<h2>"
 	}, {
 		"name": "Unfair and Lovely",
 		"img": "gd/2.cover.png",
@@ -26,35 +26,35 @@
 		"images": ["madhubani/1.png", "madhubani/2.png", "madhubani/3.png", "madhubani/4.png", "madhubani/5.png", "madhubani/6.png", "madhubani/7.png", "madhubani/8.png"],
 		"summary": "A Hindu mythological story told through a traditional Indian art form.",
 		"tags": ["drawing"],
-		"description": "When applying for Digital Media Design as my major at Penn, I was required to turn in an art portfolio. I realized that to make my application stand out, I will need to embrace my identity as an Indian and showcase it as something unique I can bring to the table. So, I learned Madhubani, an Indian folk painting form, to tell the most celebrated story of good versus evil in the Hindu community, the story of Ramayana.</br> Please use the online flipbook <a href='https://online.flowpaper.com/77d40731-trial/DiwaliinMadhubani/'>here</a> for a better reading experience."
+		"description": "When applying for Digital Media Design as my major at Penn, I was required to turn in an art portfolio. I realized that to make my application stand out, I will need to embrace my identity as an Indian and showcase it as something unique I can bring to the table. So, I learned Madhubani, an Indian folk painting form, to tell the most celebrated story of good versus evil in the Hindu community, the story of Ramayana.</br><h2>Please use the online flipbook <a href='https://online.flowpaper.com/77d40731-trial/DiwaliinMadhubani/'>here</a> for a better reading experience.</h2>"
 	}, {
 		"name": "Bio-Crowds",
 		"img": "biocrowds/cover.png",
 		"images": ["biocrowds/1.gif", "biocrowds/2.gif"],
 		"summary": "A crowd simulation algorithm based on the formation of veination patterns on leaves.",
 		"tags": ["computer graphics", "procedural graphics", "coding"],
-		"description": "After learning crowd simulation in my Procedural Graphics class at the University of Pennsylvania, I worked on a project to represent crowd movement based on a biocrowd algorithm, which accounts for personal space for each person or object in the crowd to prevent collision as the people/objects moved from an origin to a set destination.</br> Demo <a href='https://anvidalal.github.io/Biocrowds/'>here</a>.</br>Source code <a href=https://github.com/anvidalal/Project7-BioCrowds>here</a>."
+		"description": "After learning crowd simulation in my Procedural Graphics class at the University of Pennsylvania, I worked on a project to represent crowd movement based on a biocrowd algorithm, which accounts for personal space for each person or object in the crowd to prevent collision as the people/objects moved from an origin to a set destination.</br><h2>Demo <a href='https://anvidalal.github.io/Biocrowds/'>here</a>.</br>Source code <a href=https://github.com/anvidalal/Project7-BioCrowds>here</a>.</h2>"
 	}, {
 		"name": "Lea School",
 		"img": "teaching/2.png",
 		"images": ["teaching/2.png"],
-		"summary": "",
+		"summary": "Volunteering experience at West Philadelphia's Henry C. Lea School.",
 		"tags": ["teaching"],
-		"description": ""
+		"description": "In the Spring 2017, I took a Tutoring: Theory and Practice class at the University of Pennsylvania to improve both as a tutor in my current position as an SAT Tutor at Crimson Education and to explore the field of education. As a part of this community service-based class, I went to Henry C. Lea School once a week for two hours to put into practice my learnings from the class. My role in the school was to assist my assigned tutee with schoolwork and inspire him to continue education."
 	}, {
 		"name": "Theatre Assist Tool",
 		"img": "tat/cover.png",
 		"images": ["tat/1.gif", "tat/2.gif", "tat/3.gif"],
 		"summary": "A web tool to facilitate Theatre Arts students with the ability to prepare mock set designs.",
 		"tags": ["computer graphics", "procedural graphics", "coding", "research"],
-		"description": "Lighting sets an appropriate atmosphere and heightens an audience's understanding of a theatrical performance. However, rehearsing and experimenting with lighting is costly and time consuming. </br> Therefore, as a part of an independent research with Dr. Norman Badler at the University of Pennsylvania, my classmate, Nick Jang, my mentor, Sally Kong and I worked on a tool to facilitate the Theatre Arts students with a virtual lighting lab with features like different lighting, addition of multiple human models and different possible stage views. </br>Demo <a href='https://kongsally.github.io/LIT/'>here</a>.</br>Research summary video <a href=https://youtu.be/X0drjMUBeoM>here</a>."
+		"description": "Lighting sets an appropriate atmosphere and heightens an audience's understanding of a theatrical performance. However, rehearsing and experimenting with lighting is costly and time consuming. </br> Therefore, as a part of an independent research with Dr. Norman Badler at the University of Pennsylvania, my classmate, Nick Jang, my mentor, Sally Kong and I worked on a tool to facilitate the Theatre Arts students with a virtual lighting lab with features like different lighting, addition of multiple human models and different possible stage views. <h2></br>Demo <a href='https://kongsally.github.io/LIT/'>here</a>.</br>Research summary video <a href=https://youtu.be/X0drjMUBeoM>here</a>.</h2>"
 	}, {
 		"name": "Shaders",
 		"img": "shaders/cover.png",
 		"images": ["shaders/cover.png", "shaders/1.png", "shaders/2.png", "shaders/3.png"],
 		"summary": "A library of different Shaders and Post-Processing effects (Instagram-like filters) written in GLSL to render 3D scenes.",
 		"tags": ["computer graphics", "procedural graphics", "coding"],
-		"description": "I find writing shaders easily the most exciting part about learning computer graphics. They can make a regular looking 3D object transform into art. As a part of my procedural graphics class, I wrote a few shaders that are applied on a class-supplied 3D model of Mario. </br>Source code <a href=https://github.com/anvidalal/Shaders>here</a>."
+		"description": "I find writing shaders easily the most exciting part about learning computer graphics. They can make a regular looking 3D object transform into art. As a part of my procedural graphics class, I wrote a few shaders that are applied on a class-supplied 3D model of Mario. </br><h2>Source code <a href=https://github.com/anvidalal/Shaders>here</a>.</h2>"
 	}, {
 		"name": "Wearable Data",
 		"img": "gd/3.cover.png",
@@ -75,14 +75,14 @@
 		"images": ["db/1.png", "db/2.png", "db/3.gif", "db/4.gif"],
 		"summary": "An award-winning exploration of the future of urban housing in 2050 for a design competition, Well Building 2050.",
 		"tags": ["graphic design", "animation"],
-		"description": "A team effort to conceptualize the future of the city of Mumbai in 2050, Dynamic Balance was our submission to the international design competition, Well Building 2050, and secured us the second position. Working with a team of three architecture students and a neuroscience student, I took on the role of the graphic designer, animator and a content contributor during the ideation stage.</br>Competition result and detailed project report <a href=http://www.wellbuilding2050.com/contest.php#prize>here</a>.</br>Presentation video <a href=https://www.youtube.com/watch?v=VcJlR2j55s8>here</a>."
+		"description": "A team effort to conceptualize the future of the city of Mumbai in 2050, Dynamic Balance was our submission to the international design competition, Well Building 2050, and secured us the second position. Working with a team of three architecture students and a neuroscience student, I took on the role of the graphic designer, animator and a content contributor during the ideation stage.</br><h2>Competition result and detailed project report <a href=http://www.wellbuilding2050.com/contest.php#prize>here</a>.</br>Presentation video <a href=https://www.youtube.com/watch?v=VcJlR2j55s8>here</a>.</h2>"
 	}, {
 		"name": "Lonely Stoop Cigarette",
 		"img": "mv/cover.png",
 		"images": ["mv/1.gif", "mv/2.gif", "mv/3.gif"],
 		"summary": "Music video made using Adobe AfterEffects.",
 		"tags": ["video editing", "animation"],
-		"description": "For the final project of my Video I class at the University of Pennsylvania, my teammate, Mat Hause, and I decided to work a little harder outside the scope of the class and learn to use Adobe AfterEffects. The result was a music video for a song Mat wrote and recorded, Lonely Stoop Cigarette.</br>Full video <a href=https://youtu.be/shhD8jiYSjs>here</a>."
+		"description": "For the final project of my Video I class at the University of Pennsylvania, my teammate, Mat Hause, and I decided to work a little harder outside the scope of the class and learn to use Adobe AfterEffects. The result was a music video for a song Mat wrote and recorded, Lonely Stoop Cigarette.</br><h2>Full video <a href=https://youtu.be/shhD8jiYSjs>here</a>.</h2>"
 	}, {
 		"name": "Gun Model",
 		"img": "modeling/1.cover.png",
@@ -124,7 +124,7 @@
 		"images": ["drawing/3.png"],
 		"summary": "A charcoal sketch of a home-made fort.",
 		"tags": ["drawing"],
-		"description": "Don't you wonder what's inside? </br>Made in charcoal."
+		"description": "Don't you wonder what's inside? </br>Charcoal, mostly."
 	}, {
 		"name": "Crimson Education",
 		"img": "teaching/1.png",
